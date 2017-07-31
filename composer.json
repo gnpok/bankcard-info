@@ -1,0 +1,20 @@
+{
+    "name": "hodor/bankcard-info",
+    "description": "查询银行卡基础信息",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {
+        "php-curl-class/php-curl-class": "@dev"
+    },
+    "authors": [
+        {
+            "name": "hodor",
+            "email": "gnpok@qq.com"
+        }
+    ],
+    "autoload":{
+    	"psr-4":{
+    		"hodor\\bankcardInfo\\": "src"
+    	}
+    }
+}
