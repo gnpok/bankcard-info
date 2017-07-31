@@ -1,5 +1,5 @@
 {
-    "name": "hodor/bankcard-info",
+    "name": "hodorg/bankcard-info",
     "description": "查询银行卡基础信息",
     "type": "library",
     "minimum-stability": "stable",
