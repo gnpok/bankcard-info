@@ -2,7 +2,9 @@
     "name": "gnp/bankcard-info",
     "description": "查询银行卡基础信息",
     "type": "library",
+    "keywords": ["bank card"],
     "minimum-stability": "stable",
+    "license": "Apache-2.0",
     "require": {
         "php-curl-class/php-curl-class": "@dev"
     },
