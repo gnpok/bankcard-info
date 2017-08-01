@@ -12,9 +12,8 @@
 ```
 composer require gnp/bankcard-info dev-master
 
+composer install
 ```
-
-然后执行 composer install
 
 代码中如何使用
 ```
