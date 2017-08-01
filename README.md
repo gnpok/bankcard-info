@@ -1,7 +1,7 @@
 # bankcard-info
 查询银行卡信息
 
-> 代码参考 [abei2017]{https://github.com/abei2017/yii2-bankcard-info}
+> 代码参考 [abei2017](https://github.com/abei2017/yii2-bankcard-info),根据自身需求稍作修改
 
 
 安装步骤
