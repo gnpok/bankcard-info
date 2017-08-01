@@ -1,5 +1,5 @@
 {
-    "name": "hodorg/bankcard-info",
+    "name": "gnp/bankcard-info",
     "description": "查询银行卡基础信息",
     "type": "library",
     "minimum-stability": "stable",
@@ -8,13 +8,13 @@
     },
     "authors": [
         {
-            "name": "hodor",
+            "name": "gnp",
             "email": "gnpok@qq.com"
         }
     ],
     "autoload":{
     	"psr-4":{
-    		"hodor\\bankcardInfo\\": "src"
+    		"gnp\\bankcardInfo\\": "src"
     	}
     }
 }

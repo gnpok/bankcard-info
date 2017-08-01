@@ -1,5 +1,5 @@
 <?php
-namespace hodor\bankcardInfo;
+namespace gnp\bankcardInfo;
 use \Curl\Curl;
 
 
